@@ -36,13 +36,13 @@ This is my first OpenScad project. If you find any issues, please let me know.
 
 
 # HOW TO USE
-> download  OpenScad form [OpenScad.org](https://openscad.org/) for mac, win and linux
-> 
-> open the script in OpenScad 
-> 
-> adjust the parameters to your likings.
-> 
+1. download  OpenScad form [OpenScad.org](https://openscad.org/) for mac, win and linux
+2. open the script in OpenScad 
+3. adjust the parameters to your likings.
 > ![img](https://github.com/aminGhafoory/parametric-knob-maker/blob/main/images/2022-08-20_194317.png)
+4. Hit F5 button
+
+
 
 
 
