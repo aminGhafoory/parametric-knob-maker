@@ -48,6 +48,7 @@ This is my first OpenScad project. If you find any issues, please let me know.
 ## DIN standard 
 
 if want to make a new knob use this sheet
+s in this sheet is equivalent for face-to-face length in code
 
 ![DIN933](https://user-images.githubusercontent.com/74732606/185756495-7f6f163c-b045-4414-8dcd-da2969b41138.jpg)
 
